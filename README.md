@@ -1,5 +1,4 @@
-Ruby on Rails Tutorial: пример приложения
-Sample App
+Ruby Game Tutorial: Pong Game
 
 Это пример приложения для
-[*Ruby on Rails Tutorial*](http://railstutorial.org)
+[*manwithcode.com*](http://manwithcode.com)
